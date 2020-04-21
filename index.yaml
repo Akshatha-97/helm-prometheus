@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  prometheus:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2020-04-21T12:02:23.608111348Z"
+    description: A Helm chart for Kubernetes
+    digest: bd5011e3676c52417e77aefb892d53908475570fd4d670976393dd6f985e5aa1
+    name: prometheus
+    urls:
+    - https://github.com/Akshatha-97/helm-prometheus/blob/gh-pages/prometheus-0.1.0.tgz
+    version: 0.1.0
+generated: "2020-04-21T12:02:23.607623205Z"
